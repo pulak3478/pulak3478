@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pulak Islam</h1>
 <h3 align="center">A passionate in Data Analysis, Website Design</h3>
 
-- 📫 How to reach me **www.linkedin.com/in/pulak-islam-07000529a**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

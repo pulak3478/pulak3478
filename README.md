@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently studying Computer Science and Engineering at East West University
 
-- 🌱 I’m currently learning **Python, PHP**
+- 🌱 I’m currently learning **Python, Maching Learning, Data Analysis**
 
-- 📫 How to reach me **pulakislam1434@gmail.com**
+- 📫 How to reach me **pulakislam@gmail.com**
 
 - ⚡ Fact **I'm an extrovert and I can read minds**
   
